@@ -1,0 +1,16 @@
+#java #javatutorial #javacourse 
+
+This is a beginners Java project to help you become more familiar with methods and arrays.
+
+00:00:00 introduction
+00:00:20 project outline
+00:02:14 declare variables
+00:03:20 welcome message
+00:04:44 game loop
+00:04:59 enter bet amount
+00:07:58 spin row
+00:14:05 print row
+00:15:56 get payout
+00:23:16 play again?
+00:25:30 exit
+00:25:55 final product

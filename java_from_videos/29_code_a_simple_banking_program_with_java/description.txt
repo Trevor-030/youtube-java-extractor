@@ -1,0 +1,12 @@
+#java #javatutorial #javacourse 
+
+This is a project to help us learn about methods and how they work in Java. 
+
+00:00:00 outline
+00:01:24 variables
+00:02:42 display menu
+00:03:40 user input
+00:07:20 show balance
+00:10:27 deposit
+00:15:18 withdraw
+00:19:18 exit

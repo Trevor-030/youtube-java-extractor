@@ -1,0 +1,3 @@
+#java #javatutorial #javacourse 
+
+This is a beginner's project designed to help you learn Object-Oriented Programming. For a more advanced version, you could create an array of strings to store a playlist of file locations and include options to navigate to the next or previous song.

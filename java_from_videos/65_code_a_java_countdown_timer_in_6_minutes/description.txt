@@ -1,0 +1,3 @@
+#java #javatutorial #javacourse 
+
+This is a beginner's project to help you practice working with Timers and TimerTasks in Java.

@@ -1,0 +1,6 @@
+#java #javatutorial #javacourse 
+
+00:00:00 example
+00:03:43 exercise
+
+Nested loops in programming are loops placed inside one another, meaning that for each iteration of the outer loop, the inner loop runs completely. Nested loops are often used for working with multi-dimensional data structures (like 2D arrays or matrices) or for tasks that require repeated cycles within cycles.

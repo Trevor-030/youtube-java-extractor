@@ -1,0 +1,3 @@
+#java #javatutorial #javacourse 
+
+This is a beginner's project to help us understand how while loops work.

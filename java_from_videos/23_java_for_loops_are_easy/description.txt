@@ -1,0 +1,8 @@
+#java #javatutorial #javacourse 
+
+A for loop in Java is used to repeat a block of code a specific number of times, with control over initialization, condition, and update of a loop variable within a single statement. The loop runs as long as the condition is true, executing the body and updating the variable until the condition becomes false.
+
+00:00:00 introduction
+00:00:23 example 1
+00:04:25 example 2
+00:06:33 project

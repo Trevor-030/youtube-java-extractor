@@ -1,0 +1,5 @@
+#java #javatutorial #javacourse 
+
+In Java, logical operators are used to combine or negate Boolean expressions, allowing conditions to be evaluated together.
+
+(&& for "and", || for "or") or inverted (! for "not").

@@ -1,0 +1,3 @@
+#java #javatutorial #javacourse 
+
+This is a beginner's Java calculator to serve as a project to help us understand enhanced switches.

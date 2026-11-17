@@ -1,0 +1,3 @@
+#java #javatutorial #javacourse 
+
+This is a beginner's dice rolling program to help us become more familiar with methods.
